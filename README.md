@@ -13,15 +13,32 @@
 <details open="open">
   <summary>목차</summary>
   
+  - [팀원들](#-팀원들)
   - [배포](#-배포)
   - [기술 스택](#%EF%B8%8F-기술-스택)
   - [기능](#-기능)
   - [색상 참조](#-색상-참조)
   - [문서](#-문서)
-  - [팀원들](#-팀원들)
   
 </details>
   
+<br />
+<br />
+
+<!-- About Team Members -->
+## 👨‍👩‍👧‍👦 팀원들
+#### 🔹프론트엔드
+| 이동국(팀장) | 최진우 | 김동현 |                                            
+|:-----:|:-----:|:-----:|
+| <img alt="이동국" src="https://avatars.githubusercontent.com/u/111269682?v=4" height="100" width="100"> | <img alt="최진우" src="https://avatars.githubusercontent.com/u/3222504?v=4" height="100" width="100"> | <img alt="김동현" src="https://avatars.githubusercontent.com/u/67542755?v=4" height="100" width="100"> |
+| [@ldk199662](https://github.com/ldk199662) | [@Jinwoo Choi](https://github.com/jingoworld) | [@yolodion](https://github.com/yolodion) |
+
+#### 🔹백엔드
+| 김원도 | 최윤정 | 유성민 |
+|:----:|:----:|:----:|
+| <img alt="김원도" src="https://avatars.githubusercontent.com/u/110904783?v=4" height="100" width="100"> |  <img alt="최윤정" src="https://avatars.githubusercontent.com/u/111409282?v=4" height="100" width="100">   | <img alt="유성민" src="https://avatars.githubusercontent.com/u/109591744?v=4" height="100" width="100"> |
+| [@wondo07](https://github.com/wondo07) | [@yulmuu](https://github.com/yulmuu) | [@Seongmin](https://github.com/bimilless) |
+
 <br />
 <br />
 
@@ -216,18 +233,3 @@
 <br />
 <br />
 
-<!-- About Team Members -->
-## 👨‍👩‍👧‍👦 팀원들
-#### 🔹프론트엔드
-| 이동국(팀장) | 최진우 | 김동현 |                                            
-|:-----:|:-----:|:-----:|
-| <img alt="이동국" src="https://avatars.githubusercontent.com/u/111269682?v=4" height="100" width="100"> | <img alt="최진우" src="https://avatars.githubusercontent.com/u/3222504?v=4" height="100" width="100"> | <img alt="김동현" src="https://avatars.githubusercontent.com/u/67542755?v=4" height="100" width="100"> |
-| [@ldk199662](https://github.com/ldk199662) | [@Jinwoo Choi](https://github.com/jingoworld) | [@yolodion](https://github.com/yolodion) |
-
-#### 🔹백엔드
-| 김원도 | 최윤정 | 유성민 |
-|:----:|:----:|:----:|
-| <img alt="김원도" src="https://avatars.githubusercontent.com/u/110904783?v=4" height="100" width="100"> |  <img alt="최윤정" src="https://avatars.githubusercontent.com/u/111409282?v=4" height="100" width="100">   | <img alt="유성민" src="https://avatars.githubusercontent.com/u/109591744?v=4" height="100" width="100"> |
-| [@wondo07](https://github.com/wondo07) | [@yulmuu](https://github.com/yulmuu) | [@Seongmin](https://github.com/bimilless) |
-
-<br />
