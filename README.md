@@ -31,7 +31,7 @@
 | 이동국(팀장) | 최진우 | 김동현 |                                            
 |:-----:|:-----:|:-----:|
 | <img alt="이동국" src="https://avatars.githubusercontent.com/u/111269682?v=4" height="100" width="100"> | <img alt="최진우" src="https://avatars.githubusercontent.com/u/3222504?v=4" height="100" width="100"> | <img alt="김동현" src="https://avatars.githubusercontent.com/u/67542755?v=4" height="100" width="100"> |
-| [@ldk199662](https://github.com/ldk199662) | [@Jinwoo Choi](https://github.com/jingoworld) | [@yolodion](https://github.com/yolodion) |
+| [@LDK-R](https://github.com/LDK-R) | [@Jinwoo Choi](https://github.com/jingoworld) | [@yolodion](https://github.com/yolodion) |
 
 #### 🔹백엔드
 | 김원도 | 최윤정 | 유성민 |
